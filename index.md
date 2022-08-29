@@ -21,6 +21,12 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+
+# Federico's First CS193 Homework
+-Things I like:
+-The terminal
+-The teachers
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
